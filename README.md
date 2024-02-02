@@ -29,4 +29,6 @@ Explore the Registration Form project, a practical application of HTML and CSS f
 ![Regestratio Form](https://github.com/Alikhizar142/Web_development/blob/main/regestration_form/Screenshot%20from%202024-01-27%2010-25-44.png)
 ![Quiz](https://github.com/Alikhizar142/Web_development/blob/main/Buliding_Quiz/Screenshot%20from%202024-01-28%2021-39-47.png)
 ![Tirbuite](https://github.com/Alikhizar142/Web_development/blob/main/Tirbuite_page/Screenshot%20from%202024-01-29%2021-25-18.png)
+![Balance Sheet](https://github.com/Alikhizar142/Web_development/blob/main/Balance_sheet/Screenshot%20from%202024-02-01%2019-22-03.png)
+
 
